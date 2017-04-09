@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "sp-drbot-executor",
+    "name": "sp-drbot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "3e3wdbtn7c",
+    "module": "bot"
+  }
+}

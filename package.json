@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/kidchenko/sp-drbot/issues"
   },
-  "homepage": "https://github.com/kidchenko/sp-drbot#readme"
+  "homepage": "https://github.com/kidchenko/sp-drbot#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0"
+  }
 }
