@@ -1,0 +1,26 @@
+{
+  "name": "sp-drbot",
+  "version": "1.0.0",
+  "description": "A doctor bot to help people find medical help in SP.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidchenko/sp-drbot.git"
+  },
+  "keywords": [
+    "bots",
+    "messenger-bot",
+    "drbot",
+    "medical",
+    "bot"
+  ],
+  "author": "kidchenko <kidchenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidchenko/sp-drbot/issues"
+  },
+  "homepage": "https://github.com/kidchenko/sp-drbot#readme"
+}
