@@ -2,9 +2,10 @@
   "name": "sp-drbot",
   "version": "1.0.0",
   "description": "A doctor bot to help people find medical help in SP.",
-  "main": "bot.js",
+  "main": "./bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "claudia:update": "claudia update"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,10 @@
   },
   "homepage": "https://github.com/kidchenko/sp-drbot#readme",
   "dependencies": {
-    "claudia-bot-builder": "^2.15.0"
-  }
+    "claudia-bot-builder": "^2.15.0",
+    "mongodb": "^2.2.25"
+  },
+  "files": [
+    "*.js"
+  ]
 }
